@@ -3417,7 +3417,7 @@ html[xmlns] .slider-wrap {
 
 #logo img {
 	display: block;
-	max-width: 40%;
+	max-width: 70%;
 	max-height: 33%;
 }
 
@@ -9674,7 +9674,7 @@ body:not(.device-touch) .button.button-full strong {
 	color: #333;
 }
 
-.fbox-content p {
+.fbox-content p, .fbox-content u, .fbox-content li {
 	margin-top: 0.5rem;
 	margin-bottom: 0px;
 	color: #999;
