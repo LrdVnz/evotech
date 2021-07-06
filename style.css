@@ -2864,6 +2864,9 @@ img.lazy:not([src]) {
 	height: 0;
 }
 
+.slider-wrap a {
+	color: white; 
+}
 html[xmlns] .slider-wrap {
 	display: block;
 }
