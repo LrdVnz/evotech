@@ -4,3 +4,11 @@
 	Add all your Custom Styled CSS here for New Styles or
 	Overwriting Default Theme Styles for Better Handling Updates
 -----------------------------------------------------------------*/
+
+/* Adjustment for anchor tag positioning with fixed header */
+
+.anchor {
+	display: block;
+	padding-top:100px;
+	margin-top:-100px;
+}
