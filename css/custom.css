@@ -16,3 +16,14 @@
 ul {
 	list-style: inside;
 }
+
+p, h1 {
+	margin-left:10px; 
+	margin-right: 10px; 
+}
+
+@media (max-width: 500px) {
+	#page-title.page-title-dark.ozono {
+	  background: url(images/mobile/Evotech-Calidarium-risparmio-acs-combustibile-mobile.jpg)
+	}
+  }
