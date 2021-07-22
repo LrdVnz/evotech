@@ -7,7 +7,7 @@
 
 /* Adjustment for anchor tag positioning with fixed header */
 
-.anchor {
+.anchor, #contattaci{
 	display: block;
 	padding-top:100px;
 	margin-top:-100px;
@@ -17,7 +17,7 @@ ul {
 	list-style: inside;
 }
 
-p, h1 {
+.testimonial p, .testimonial h1 {
 	margin-left:10px; 
 	margin-right: 10px; 
 }
